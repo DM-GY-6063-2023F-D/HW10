@@ -79,3 +79,5 @@ Board looks different in video because I had to use a separate board to keep HW 
 ### Video
 
 [20231115_095856_1280_2M.webm](https://github.com/DM-GY-6063-2023F-D/HW10/assets/850815/43f2797a-7e4c-4dbd-902d-d76980be25d9)
+
+Video is sped up so I could show more than 1 minute in 30 seconds.
