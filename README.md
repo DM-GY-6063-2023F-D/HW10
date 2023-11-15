@@ -15,6 +15,58 @@ This turns ```ellapsedSeconds``` from an unbound sequence that grows to infinity
 
 ### Binary
 
+Let's look at the binary representation of some numbers between 0 and 59:
+
+<div class="row">
+  <div class="column" markdown=1>
+| decimal | binary |
+| --- | --- |
+|  0 | 000000 |
+|  1 | 000001 |
+|  2 | 000010 |
+|  3 | 000011 |
+|  4 | 000100 |
+|  5 | 000101 |
+|  6 | 000110 |
+|  7 | 000111 |
+|  8 | 001000 |
+|  9 | 001001 |
+| 10 | 001010 |
+| 11 | 001011 |
+| 12 | 001100 |
+| 13 | 001101 |
+| 14 | 001110 |
+| 15 | 001111 |
+| ... | ... |
+  
+  </div>
+  <div class="column" markdown=1>
+  | decimal | binary |
+| --- | --- |
+|  0 | 000000 |
+|  1 | 000001 |
+|  2 | 000010 |
+|  3 | 000011 |
+|  4 | 000100 |
+|  5 | 000101 |
+|  6 | 000110 |
+|  7 | 000111 |
+|  8 | 001000 |
+|  9 | 001001 |
+| 10 | 001010 |
+| 11 | 001011 |
+| 12 | 001100 |
+| 13 | 001101 |
+| 14 | 001110 |
+| 15 | 001111 |
+| ... | ... |
+
+  </div>
+</div>
+
+There's a pattern ! The right-most binary bit toggles every second, the second bit toggles every 2 seconds, the third every 4 seconds, then 8, then 16, then 32.
+
+
 
 
 ### Decimal
