@@ -82,3 +82,5 @@ Board looks different in video because I had to use a separate board to keep HW 
   <source src="./imgs/wk10-hw10-01.webm" type="video/mp4">
 </video>
 
+https://github.com/DM-GY-6063-2023F-D/HW10/raw/main/imgs/wk10-hw10-01.webm
+
