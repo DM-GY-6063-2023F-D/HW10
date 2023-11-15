@@ -79,5 +79,6 @@ Board looks different in video because I had to use a separate board to keep HW 
 ### Video
 
 <video width="800" height="450" controls>
-  <source src="./imgs/wk10-hw10-01.mp4" type="video/mp4">
+  <source src="./imgs/wk10-hw10-01.webm" type="video/mp4">
 </video>
+
