@@ -66,6 +66,10 @@ Another issue was that switching between *Decimal* and *Binary* representations 
 
 This was fixed by just running the ```setup()``` function every loop and resetting the ```pinMode()``` for all used pins.
 
+### Sketch
+
+![](./imgs/wk10-hw10-01_drw.jpg)
+
 ### Schematic
 
 ![](./imgs/wk10-hw10-01_sch.png)
